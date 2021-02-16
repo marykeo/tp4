@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@400;700&display=swap');
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+}
+
+li, p {
+  font-family: 'Open Sans', sans-serif;
+  color: #505050;
+}
+
+ul ul {
+  list-style-type: circle;
+}
+
+#directions li:nth-child(2) {
+  color: pink;
+}
+
+#directions li:nth-child(7) {
+  color: pink;
+}
